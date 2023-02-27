@@ -1,0 +1,14 @@
+//BASIC SCAN
+COMMAND - fierce --domain <target website>
+
+//EXAMPLE - fierce --domain www.google.com. You can also use other options such as:
+° --wide - It scans entire class c of discovered records
+° --delay - It will wait for the specified time between lookups, etc.
+
+
+//DESCRIPTION - It is a tool which is used to find hostnames and con-contiguous against specified domains. It uses DNS primarily you will often find mis-configured networks that leak internal address space.
+
+To get more information about the fierce tool type any of the following 2 commands :
+*dnsenum -h 
+*dnsenum --help
+[ Both -h and --help will give the same results :) ]
